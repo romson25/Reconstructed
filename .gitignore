@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.jpeg
 *.jpg
 *.mp4
 =======
+=======
+>>>>>>> 6ddeaf08d4962daa17b24dcba56693e7c00c9c86
 # Compiled Object files
 *.slo
 *.lo
@@ -31,4 +34,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
+>>>>>>> 6ddeaf08d4962daa17b24dcba56693e7c00c9c86
+=======
 >>>>>>> 6ddeaf08d4962daa17b24dcba56693e7c00c9c86
