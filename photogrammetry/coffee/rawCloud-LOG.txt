@@ -1,0 +1,13 @@
+
+Remove outlier
+	neighbors number: 24
+	removed percentage: 2
+Wlop
+	neighbors radius: 2.3
+	retain percentage: 75
+Jet smooth
+	neighbors number: 24
+PCA
+	neighbors number: 36
+MST
+	neighbors number: 36

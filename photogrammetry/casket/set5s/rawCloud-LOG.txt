@@ -1,0 +1,4 @@
+
+Remove outlier
+	neighbors number: 8
+	removed percentage: 2

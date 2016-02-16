@@ -1,0 +1,18 @@
+
+Remove outlier
+	neighbors number: 8
+	removed percentage: 2
+Wlop
+	neighbors radius: 13
+	retain percentage: 75
+Jet smooth
+	neighbors number: 18
+PCA
+	neighbors number: 36
+MST
+	neighbors number: 36
+Eau
+	edge sensitivity: 0.2
+	multiplier: 3
+	neighbors number: 16
+	sharpness angle: 0.25

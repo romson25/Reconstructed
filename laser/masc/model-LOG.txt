@@ -1,0 +1,22 @@
+
+Remove outlier
+	neighbors number: 8
+	removed percentage: 5
+Wlop
+	neighbors radius: 0.7
+	retain percentage: 1.5
+Jet smooth
+	neighbors number: 24
+Jet fitting
+	neighbors number: 36
+MST
+	neighbors number: 36
+Bilateral smooth
+	angle: 25
+	iteration: 3
+	k: 120
+Eau
+	edge sensitivity: 0.25
+	multiplier: 5
+	neighbors number: 2.2
+	sharpness angle: 0.2
